@@ -15,5 +15,6 @@ int main() {
 
  cout << "fatorial de" << N << " = " << fatorial << endl;
 return 0;
+}
 
  
