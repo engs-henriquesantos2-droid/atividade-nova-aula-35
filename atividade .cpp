@@ -20,4 +20,3 @@ int main() {
     cout << numero << "! = " << fatorial << endl;
     return 0;
 } 
-e 
