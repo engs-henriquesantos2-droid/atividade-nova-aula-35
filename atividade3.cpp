@@ -10,4 +10,11 @@ int main () {
         cout << "digite uma numero: "
 cin >> num;
 
+ if (num % 2 == 0) {
+    soma += num;
+    }
+        }
+        cout << "soma dos numeros pares = " << soma 
+ }
+
         
